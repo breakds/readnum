@@ -5,6 +5,7 @@ Reading Integers Loudly (CHN)
 
 Test Result:
 
+```bash
 [PASS] 1 reads 1 
 [PASS] 5 reads 5 
 [PASS] 10 reads shi 
@@ -20,3 +21,4 @@ Test Result:
 [PASS] 31009019 reads 3qian1baiwan9qian01shi9 
 [PASS] 2031009019 reads 2shiyi3qian1baiwan9qian01shi9 
 [PASS] 10122031009019 reads shiwan1qian2bai2shiyi3qian1baiwan9qian01shi9 
+```
