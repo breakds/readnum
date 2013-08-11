@@ -1,7 +1,7 @@
 readnum
 =======
 
-Reading Integers Loudly (CHN)
+Read Integers Loudly (CHN)
 
 Test Result:
 
