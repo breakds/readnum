@@ -22,5 +22,11 @@ readnum::test 5555 5qian5bai5shi5
 readnum::test 6600 6qian6bai
 readnum::test 120301 shi2wan03bai01
 readnum::test 31009019 3qian1baiwan9qian01shi9
+readnum::test 100001000 1yi01qian
+readnum::test 100101000 1yi01shiwan1qian
 readnum::test 2031009019 2shiyi3qian1baiwan9qian01shi9
 readnum::test 10122031009019 shiwan1qian2bai2shiyi3qian1baiwan9qian01shi9
+readnum::test 10000000000000000 1yiyi
+readnum::test 23400001250010000 2yi3qian4baiwan01shi2yi5qian01wan
+readnum::test 203200000000000000000000 2qian03shi2wanyiyi
+readnum::test 20320000000000000000000000000001 2qian03shi2wanyiyiyi01
